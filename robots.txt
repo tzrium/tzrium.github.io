@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://tzrium.csgad.com/GMr/sitemap.xml.gz
